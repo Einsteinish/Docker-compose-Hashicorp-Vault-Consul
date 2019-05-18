@@ -1,0 +1,3 @@
+vault/data/*
+vault/logs/*
+.DS_Store

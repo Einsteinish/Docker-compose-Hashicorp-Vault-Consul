@@ -1,6 +1,8 @@
 # Docker-compose-Hashicorp-Vault-Consul
 Hashicorp's Vault and Consul local deploy via docker-compose
 
+Note - This vault-only branch is for Vault only, for Vault and  Consul, please checkout master branch
+
 ## Tutorials (Vault) - branch (vault-only)
 
 1. [Docker Compose - Hashicorp's Vault and Consul Part A (install vault, unsealing, static secrets, and policies)](https://bogotobogo.com/DevOps/Docker/Docker-Vault-Consul.php) 

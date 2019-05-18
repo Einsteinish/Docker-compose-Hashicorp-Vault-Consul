@@ -1,3 +1,4 @@
 vault/data/*
 vault/logs/*
+consul/data/*
 .DS_Store
